@@ -1,5 +1,10 @@
 lalalalalala
 
 
+<<<<<<< HEAD
+hot-fix ddddd
+=======
 hot-fix dinner
+>>>>>>> hot-fix
 hothothothothothothothothot!!!!!!!!!!!!!
+master master
